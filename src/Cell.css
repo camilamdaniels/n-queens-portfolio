@@ -1,0 +1,15 @@
+.Cell {
+	display: flex;
+	height: 100px;
+	width: 100px;
+	border-radius: 1px;
+	border-style: solid;
+	color: black;
+	align-items: center;
+	justify-content: center;
+}
+
+.Cell-dark {
+	background-color: black;
+	color: white;
+}
